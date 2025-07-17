@@ -108,7 +108,7 @@ function App() {
           </a>
         </div>
         <p className="footer-text">
-          © {new Date().getFullYear()} Nataliya Rossi
+          © {new Date().getFullYear()} Yashvi Shah
         </p>
       </footer>
     </div>
